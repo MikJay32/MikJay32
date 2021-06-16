@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MikJay32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @MikJay32 (Mikhail)
+- 👀 I’m interested in Software Devlopment and Cyber Security 
+- 🌱 I’m currently learning Radiation Control and Data Acquisition
+- 💞️ I’m looking to collaborate on Matlab and Simulink projects 
+- 📫 How to reach me mwj2000@wildcats.unh.edu
 
 <!---
 MikJay32/MikJay32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
